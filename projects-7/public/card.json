@@ -1,0 +1,99 @@
+[
+    {
+      "id": "1",
+      "cover_picture": "https://i.ibb.co/k4yBgsB/Rectangle-2.png",
+      "title": "Introduction to C Programming",
+      "bio": "Unlock the power of Python programming language.",
+      "time": 4,
+      "price": 19.99
+    },
+    {
+      "id": "2",
+      "cover_picture": "https://i.ibb.co/RyJSnSm/Rectangle-3.png",
+      "title": "Introduction to Algorithms",
+      "bio": "Explore the world of web development and create amazing websites.",
+      "time": 3,
+      "price": 24.99
+    },
+    {
+      "id": "3",
+      "cover_picture": "https://i.ibb.co/k4yBgsB/Rectangle-2.png",
+      "title": "Introduction to C++ for DSA",
+      "bio": "Dive into data science and discover its endless possibilities.",
+      "time": 3,
+      "price": 29.99
+    },
+    {
+      "id": "4",
+      "cover_picture": "https://i.ibb.co/sj4BdRV/Rectangle-5.png",
+      "title": "Basic Data Structures",
+      "bio": "Solve intriguing coding challenges and enhance your skills.",
+      "time": 3,
+      "price": 22.99
+    },
+    {
+      "id": "5",
+      "cover_picture": "https://i.ibb.co/WcqwhLC/Rectangle-6.png",
+      "title": "Introduction to OOP Python",
+      "bio": "Master the art of JavaScript programming for web development.",
+      "time": 7,
+      "price": 18.99
+    },
+    {
+      "id": "6",
+      "cover_picture": "https://i.ibb.co/YWcpQBW/Rectangle-7.png",
+      "title": "Software Engineering",
+      "bio": "Embark on a quest to conquer complex algorithms.",
+      "time": 2,
+      "price": 26.99
+    },
+    {
+      "id": "7",
+      "cover_picture": "https://i.ibb.co/QmZfN8K/Rectangle-8.png",
+      "title": "Basic Data Structures",
+      "bio": "Join the forefront of the AI revolution and build intelligent systems.",
+      "time":1,
+      "price": 31.99
+    },
+    {
+      "id": "8",
+      "cover_picture": "https://i.ibb.co/Lx7y2qC/Rectangle-9.png",
+      "title": "Introduction to OOP Python",
+      "bio": "Unravel the mysteries of cybersecurity and protect the digital world.",
+      "time": 6,
+      "price": 23.99
+    },
+    {
+      "id": "9",
+      "cover_picture": "https://i.ibb.co/k4yBgsB/Rectangle-2.png",
+      "title": "Software Engineering",
+      "bio": "Hone your coding skills and become a true code craftsman.",
+      "time": 4,
+      "price": 27.99
+    },
+    {
+      "id": "10",
+      "cover_picture": "https://i.ibb.co/Lx7y2qC/Rectangle-9.png",
+      "title": "AWS, Cloud Computing",
+      "bio": "Explore the world of DevOps and streamline software development.",
+      "time": 3,
+      "price": 21.99
+    },
+    {
+      "id": "11",
+      "cover_picture": "https://i.ibb.co/k4yBgsB/Rectangle-2.png",
+      "title": "Database (MySQL)",
+      "bio": "Savor the flavors of coding with delicious code recipes.",
+      "time": 2,
+      "price": 19.99
+    },
+    {
+      "id": "12",
+      "cover_picture": "https://i.ibb.co/YWcpQBW/Rectangle-7.png",
+      "title": "Problem-Solving Part",
+      "bio": "Craft beautiful code like a poet composing verses.",
+      "time": 2,
+      "price": 16.99
+    }
+  ]
+  
