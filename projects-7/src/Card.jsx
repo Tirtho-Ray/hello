@@ -37,7 +37,9 @@ const Card = () => {
   };
 
   return (
-    <div className="flex">
+    <div>
+        <h1 className="text-center text-3xl font-bold mt-12">Course Registration</h1>
+        <div className="flex">
       <div className="grid grid-cols-3 mx-auto max-w-screen-lg gap-4 mt-20">
         {/* using map function */}
         {card.map((cardItem) => (
@@ -84,6 +86,7 @@ const Card = () => {
           <p>You already clicked this card or reached 0 remaining time!</p>
         </div>
       )}
+    </div>
     </div>
   );
 };
